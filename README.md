@@ -2,9 +2,7 @@
 
 > Drive a 4-digit common cathode 7-segment display using AVR microcontroller with multiplexing.
 
-![Schematic](schematic.png)  
-*Example schematic using Proteus or similar tool*
-
+ 
 ---
 
 ## 🧩 Features
