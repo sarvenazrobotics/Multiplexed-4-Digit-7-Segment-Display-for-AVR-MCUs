@@ -68,4 +68,30 @@ The program:
 
 ---
 
-## 📁 File Structure
+
+---
+
+## 📌 Notes
+
+- If display is dim, reduce delay_ms() to 1ms or use timer-based multiplexing.
+- For dynamic content, replace `show_digits(1,3,7,9)` with variables from sensors, counters, etc.
+- Always use current-limiting resistors to protect LEDs and MCU.
+
+---
+
+## 📚 Learn More
+
+- [AVR Port Manipulation Guide](https://www.avrfreaks.net/)
+- [7-Segment Display Basics](https://www.electronics-tutorials.ws)
+- [Multiplexing Explained](https://www.allaboutcircuits.com/)
+
+---
+
+## 📬 Contact
+
+For questions, issues, or contributions — open an issue or contact me at:  
+📧 Sarvenazashoori2000@gmail.com
+
+---
+
+⭐ **Happy coding!**
